@@ -2,3 +2,4 @@ This is opened in First. Test
 This is Change in Trunk.
 
 This is change 1
+This is change 2
